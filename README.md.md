@@ -109,6 +109,6 @@ Both datasets are publicly available and used here for learning and portfolio pu
 Available for freelance Power BI, Excel and reporting projects.
 
 - **Name:** Sunil Luhar
-- **LinkedIn:** [add your link]
-- **Upwork:** [add your link]
-- **Email:** [add your email]
+- **LinkedIn:** [www.linkedin.com/in/sunil-luhar-b7ab69383]
+- **Upwork:** [add your link](https://www.upwork.com/freelancers/~012da964e093fca48f]
+- **Email:** [luharsunil965@gmail.com]
